@@ -1,3 +1,25 @@
 body {
-	background-color: antiquewhite;
+	background-color: #212529;
+	color: white;
+	font-size: 18px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.index-body {
+	background-image: url(/images/idex-background.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+}
+.main-text {
+	width: 40%;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+.images-slides {
+	width: 800px;
+	margin: 0 auto;
 }
